@@ -24,7 +24,7 @@ I am a passionate data science enthusiast on a journey to master the art of turn
 
 ### Beginner Projects
 1. **Introduction to Notebook Projects**
-   - **Objective:** Get comfortable with notebook-based projects in Python, SQL, and R.
+   - **Objective:** Get comfortable with notebook-based projects in Python and SQL.
 
 2. **Investigating Netflix Movies**
    - **Objective:** Apply basic Python skills to manipulate and visualize movie data.
